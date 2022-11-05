@@ -3,8 +3,8 @@ public class Main {
 
         //method = a block of code that is executed whenever it is called upon
 
-        String name = "Kimtai";
-        int age = 25;
+        String name = "Kimtai Dennis";
+        int age = 22;
 
         //values or variables parsed to a method are referred to as arguments and can be confused with parameters
         //You need a matching set of parameters
